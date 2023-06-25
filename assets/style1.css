@@ -1,0 +1,28 @@
+body {
+  font-family: 'Tiro Gurmukhi', serif;
+  margin: 2 em;
+  padding: 0;
+  background-color: #A9A9A9;
+}
+
+header {
+  padding: 1px;
+  color: #000000;
+  background-color: #DCDCDC;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1{
+  font-size: 30px;
+  color: #000000;
+}
+
+h2{
+  font-size: 30px;
+  color: #000000;
+}
+
+article {
+  background-color: white;
+}
